@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="CMPS 109"/>
+        <group>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPRequest.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPHTMLService.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPGETRequest.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPRequest.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPServiceManager.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/FileCacheItem.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/GarbageCollector.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPFormService.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPHTMLService.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPGETRequest.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/FileCache.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/FileCache.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPResponseHeader.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/main.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPTransaction.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/Makefile</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPFormService.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/Thread.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPImageService.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/TCPServerSocket.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/TCPServerSocket.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPImageService.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPService.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPPOSTRequest.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPRequestManager.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPResponseHeader.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/FileCacheItem.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/TCPSocket.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPServiceManager.h</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPExceptionHandler.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/sources/HTTPRequestManager.cpp</file>
+            <file>file:/Users/maxzhao/Desktop/CMPS109/takeHomeMidterm/SimpleWebCache/headers/HTTPService.h</file>
+        </group>
+    </open-files>
+</project-private>
